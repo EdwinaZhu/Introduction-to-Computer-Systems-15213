@@ -23,6 +23,13 @@ qtest can also test a queue implementation using a "trace file" that
 gives a sequence of operations to perform.  Run ./qtest -h to see how
 to run qtest with a trace file.
 
+
+
+
+
+
+
+
 We've provided the trace files that will be used to test your code, in
 the "traces" subdirectory.  The autograder has its own copy, which you
 can't change, but you are encouraged to read the trace files, work out
